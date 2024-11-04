@@ -1,6 +1,6 @@
 {
   "name": "resource-snapper",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A resource snap service powered by NestJS.",
   "author": "John Mao <z@v1c0.com>",
   "private": true,
